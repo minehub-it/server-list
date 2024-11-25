@@ -1,0 +1,110 @@
+[
+  {
+    "id": 10,
+    "name": "Premium",
+    "slug": "premium",
+    "description": "Lista aggiornata dei server Minecraft disponibili ai soli giocatori da sempre conosciuti come Premium e che hanno acquistato il gioco"
+  },
+  {
+    "id": 20,
+    "name": "Survival",
+    "slug": "survival",
+    "description": "Lista aggiornata dei server Minecraft con modalità Sopravvivenza, il giocatore deve raccogliere risorse, costruire strutture e sopravvive in un mondo generato"
+  },
+  {
+    "id": 30,
+    "name": "Vanilla",
+    "slug": "vanilla",
+    "description": "Lista aggiornata dei server Minecraft con modalità Vanilla, ovvero quelle che si attengono al gioco originale e che non richiedono l'utilizzo di mod per giocare"
+  },
+  {
+    "id": 40,
+    "name": "Factions",
+    "slug": "factions",
+    "description": "Lista aggiornata dei server Minecraft con modalità Fazioni che offrono ai giocatori l'opportunità di formare gilde, clan o fazioni con amici e altri giocatori "
+  },
+  {
+    "id": 50,
+    "name": "Towny",
+    "slug": "towny",
+    "description": "Lista aggiornata dei server Minecraft con modalità Towny ovvero con la possibilità di poter fondare una propria città"
+  },
+  {
+    "id": 60,
+    "name": "Minigames",
+    "slug": "minigames",
+    "description": "Lista aggiornata dei server Minecraft con Minigames come Battle Arena, Parkour, Skywars, Spleef e molto altro"
+  },
+  {
+    "id": 70,
+    "name": "Bedwars",
+    "slug": "bedwars",
+    "description": "Lista aggiornata dei server Minecraft con modalità Bedwars"
+  },
+  {
+    "id": 75,
+    "name": "KitPVP",
+    "slug": "kitpvp",
+    "description": "Lista aggiornata dei server Minecraft specializzati in PVP (Player vs Player), scegli il tuo kit e scontra gli altri giocatori"
+  },
+  {
+    "id": 80,
+    "name": "SkyPVP",
+    "slug": "skypvp",
+    "description": "Lista aggiornata dei server Minecraft con modalità SkyPVP, SkyBlock, KitPVP e molto altro"
+  },
+  {
+    "id": 90,
+    "name": "SkyBlock",
+    "slug": "skyblock",
+    "description": "Lista aggiornata dei server Minecraft con modalità SkyPVP, SkyBlock, KitPVP e molto altro"
+  },
+  {
+    "id": 100,
+    "name": "PVP",
+    "slug": "pvp",
+    "description": "Lista aggiornata dei server Minecraft con modalità PVP, SkyPVP, SkyBlock, KitPVP e molto altro"
+  },
+  {
+    "id": 110,
+    "name": "Hardcore",
+    "slug": "hardcore",
+    "description": "Lista aggiornata dei server Minecraft con modalità Hardcore, ovvero una variante della modalità Survival in cui se si viene uccisi, bisogna ripartire da capo"
+  },
+  {
+    "id": 120,
+    "name": "Roleplay",
+    "slug": "roleplay",
+    "description": "Lista aggiornata dei server Minecraft con modalità Roleplay, con armi, strumenti, abiti, macchinari e molto altro"
+  },
+  {
+    "id": 130,
+    "name": "Creative",
+    "slug": "creative",
+    "description": "Lista aggiornata dei server Minecraft con modalità Creativa ovvero per costruire e giocare nel server online con risorse di gioco illimitate"
+  },
+  {
+    "id": 140,
+    "name": "Moddato",
+    "slug": "moddato",
+    "description": "Lista aggiornata dei server Minecraft con server moddato e che richiede un modpack o launcher personalizzato per giocare sul server"
+  },
+  {
+    "id": 150,
+    "name": "Pixelmon",
+    "slug": "pixelmon",
+    "description": "Lista aggiornata dei server Minecraft con modalità Pixelmon ovvero Pokémon in Minecraft con lotta, commercio e l'allevamento"
+  },
+  {
+    "id": 170,
+    "name": "Prison",
+    "slug": "prison",
+    "description": "Lista aggiornata dei server Minecraft con modalità Prison in cui i giocatori devono raccogliere risorse, estrarle e commerciarle per salire nel server"
+  },
+  {
+    "id": 180,
+    "name": "mcMMO",
+    "slug": "mcmmo",
+    "description": "Lista aggiornata dei server Minecraft con modalità McMMO che incorpora meccaniche RPG con skills, combattimenti e magie"
+  }
+]
