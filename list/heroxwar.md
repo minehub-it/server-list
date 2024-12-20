@@ -1,6 +1,6 @@
 ---
 name: HeroxWar
 address: mc.heroxwar.com
-platform: ['je']
+platform: ["je"]
 categories: ["survival","minigames","bedwars","skypvp","skyblock","pvp"]
 ---

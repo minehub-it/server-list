@@ -1,6 +1,6 @@
 ---
 name: MetroScraper
 address: mc.metroscraper.it
-platform: ['je']
+platform: ["je"]
 categories: ["survival","factions","pvp","creative","mcmmo"]
 ---

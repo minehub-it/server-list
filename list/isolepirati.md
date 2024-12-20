@@ -1,6 +1,6 @@
 ---
 name: IsolePirati
 address: mc.isolepirati.it
-platform: ['je']
+platform: ["je"]
 categories: ["survival","factions","kitpvp","pvp","roleplay","mcmmo"]
 ---

@@ -1,6 +1,6 @@
 ---
 name: HardVanilla
 address: mchv.eu
-platform: ['je']
+platform: ["je"]
 categories: ["vanilla"]
 ---

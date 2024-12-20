@@ -1,6 +1,6 @@
 ---
 name: Obsidian Network
 address: mc.obsidiancraft.it
-platform: ['je']
+platform: ["je"]
 categories: ["survival","minigames","skyblock","pvp","creative"]
 ---

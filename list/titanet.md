@@ -1,6 +1,6 @@
 ---
 name: Titanet
 address: mc.titanet.it
-platform: ['je']
+platform: ["je"]
 categories: ["survival"]
 ---

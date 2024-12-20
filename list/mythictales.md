@@ -1,6 +1,6 @@
 ---
 name: Mythic Tales
 address: mythictales.it
-platform: ['je']
+platform: ["je"]
 categories: ["survival","pvp","moddato"]
 ---

@@ -1,6 +1,6 @@
 ---
 name: Minecraft Experience
 address: mc.minecraftexperience.it
-platform: ['je']
+platform: ["je"]
 categories: ["survival","factions","skyblock","roleplay"]
 ---

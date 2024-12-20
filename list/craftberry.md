@@ -1,6 +1,6 @@
 ---
 name: Craftberry
 address: mc.craftberry.xyz
-platform: ['je']
+platform: ["je"]
 categories: ["survival"]
 ---

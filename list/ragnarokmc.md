@@ -1,6 +1,6 @@
 ---
 name: RagnarokMC
 address: ragnarokmc.it
-platform: ['je']
+platform: ["je"]
 categories: ["towny","skyblock","roleplay","mcmmo"]
 ---

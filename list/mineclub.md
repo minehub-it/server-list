@@ -1,6 +1,6 @@
 ---
-name: Chiesa51
-address: chiesa51.cf
+name: MineClub
+address: play.mineclub.it
 platform: ["je"]
 categories: ["survival","pvp"]
 ---
